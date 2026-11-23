@@ -2,3 +2,8 @@ hcfmosecrets.py
 .ipynb_checkpoints
 ER Hourly.py
 Incomplete ER Reports.py
+__pycache__/
+*.pyc
+*.db
+*.log
+processed_xml/
